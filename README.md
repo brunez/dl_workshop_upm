@@ -40,7 +40,7 @@ If you're serious about machine learning, you should start here.
 [6]: https://www.youtube.com/watch?v=u6aEYuemt0M
 [7]: https://www.youtube.com/watch?v=zij_FTbJHsk&list=PLWtzrfzH7gsfxTs8neTRJDXuqAn7qeV4E
 [8]: http://yosinski.com/deepvis
-[9]; http://cs231n.github.io/
+[9]: http://cs231n.github.io/
 [10]: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 [11]: https://www.reddit.com/r/MachineLearning/
 [12]: https://stats.stackexchange.com/
