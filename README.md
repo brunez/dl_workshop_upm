@@ -25,6 +25,7 @@ Notebooks for the introductory workshop on deep learning held at ETSISI, Univers
 * [A Stanford course on CNNs][9].
 * [Reddit][11]
 * [Stack exchange for machine learning and statistics][12]
+* The paper describing the [VGG][15] network.
 
 ## Books
 If you're serious about machine learning, you should start here.
@@ -46,3 +47,4 @@ If you're serious about machine learning, you should start here.
 [12]: https://stats.stackexchange.com/
 [13]: http://www.deeplearningbook.org/
 [14]: https://www.coursera.org/learn/machine-learning
+[15]: https://arxiv.org/pdf/1409.1556.pdf
