@@ -8,7 +8,7 @@ Notebooks for the introductory workshop on deep learning held at ETSISI, Univers
 * ann_mnist: This notebook introduces some aspects of the Keras API, demonstrated on the MNIST handwritten digit data set (a classic benchmark in computer vision).
 * cnn_mnist: This notebook introduces convolutional neural networks, widely employed for computer vision, using Keras. Their performance is demonstrated on the MNIST handwritten digit data set.
 * transfer_learning: This notebook introduces the concept of transfer learning in computer vision. We use the weights of the VGG-16 network, trained on the ImageNet data set, to quickly build a strikingly accurate image classifier using a moderately sized data set.
-  
+ * scripts/pad_ct101.py: This script converts all the images in the specified (hardcoded) directory to a convenient format for the VGG network. 
 
 ## Dependencies
 * [scikit-learn][1]
