@@ -4,7 +4,7 @@ Notebooks for the introductory workshop on deep learning held at ETSISI, Univers
 ## Content
 * linear_regression: Contains all the linear regression examples we saw during the first session (house prices)
 * logistic_regression: Contains all the logistic regression examples we saw during the first session (binary classification)
-* ann_xor: Introduces the "Learning XOR problem". The XOR is a very simple function that linear models such as logistic regression cannot learn. This serves as a motivation for introducing neural networks, and more generally, deep non-linear models.
+* ann_xor: Introduces the "Learning XOR" problem. The XOR is a very simple function that linear models such as logistic regression cannot learn. This serves as a motivation for introducing neural networks, and more generally, deep non-linear models.
 * ann_mnist: This notebook introduces some aspects of the Keras API, demonstrated on the MNIST handwritten digit data set (a classic benchmark in computer vision).
 * cnn_mnist: This notebook introduces convolutional neural networks, widely employed for computer vision, using Keras. Their performance is demonstrated on the MNIST handwritten digit data set.
 * transfer_learning: This notebook introduces the concept of transfer learning in computer vision. We use the weights of the VGG-16 network, trained on the ImageNet data set, to quickly build a strikingly accurate image classifier using a moderately sized data set.
